@@ -1,8 +1,8 @@
 <!-- <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p> -->
 
-<p><i> 안녕하세요 </i></p>
-<p><i> 제가 작업한 결과물들을 정리해 놓은 공간입니다 more를 눌러주세요 </i></p>
+<p> 안녕하세요 </p>
+<p> 제가 작업한 결과물들을 정리해 놓은 공간입니다 more를 눌러주세요 </p>
 
 <details>
   <summary> more </summary>
