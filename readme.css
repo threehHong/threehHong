@@ -1,0 +1,8 @@
+details summary::-webkit-details-marker {
+  color: blue;
+}
+
+details summary {
+  font-weight: bold;
+  color: red;
+}
