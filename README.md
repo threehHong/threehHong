@@ -7,11 +7,9 @@
 
 <br>
 
-<div> 
 
-
-<div style="display:flex; width: 100%; height: 500px;">
-  <div>
+<div style="display: flex; width: 100%; height: 500px;">
+  <div style="flex: 1;">
     <h3>프로젝트 소개</h3>
     <ul>
       <li>CGV 랜딩 페이지 리뉴얼 프로젝트</li>
@@ -22,7 +20,7 @@
     </ul>
   </div>
   
-  <div>
+  <div style="flex: 1;">
     <h3>업무 분장</h3>
     <ul>
       <li>손*진(헤더 및 우측 하단 버튼)</li>
