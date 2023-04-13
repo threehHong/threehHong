@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <img src="img/text.svg" style="width: 1000px; min-width: 140px;">
+    <img src="img/text.svg">
 </div>
 
 <br>
