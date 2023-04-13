@@ -7,7 +7,7 @@
 
 
 <div align="center">
-    <img src="img/text.svg">
+    <img src="img/cgv_project_information.svg">
 </div>
 
 <br>
