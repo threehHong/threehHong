@@ -25,16 +25,19 @@
   <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 
   
-  ## About Me
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eum beatae voluptate fugiat, veritatis facilis iste facere dolorem quia harum dolorum quas nihil debitis reprehenderit repellendus praesentium assumenda consectetur quidem?
+  ## Recent Project
+  #### CLASS ESC USER PAGE
+  - LMS 사이트 유저 페이지 제작 프로젝트(온라인 강의 사이트 제작)
+  
+  #### CLASS ESC ADMIN PAGE
+  - LMS 사이트 관리자 페이지 제작 프로젝트
 
-  ### About Me
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eum beatae voluptate fugiat, veritatis facilis iste facere dolorem quia harum dolorum quas nihil debitis reprehenderit repellendus praesentium assumenda consectetur quidem?
+  #### LG DIPLAY (SITE RENEWAL)
+  - LG DIPLAY 사이트 리뉴얼 프로젝트
 
-  #### About Me
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eum beatae voluptate fugiat, veritatis facilis iste facere dolorem quia harum dolorum quas nihil debitis reprehenderit repellendus praesentium assumenda consectetur quidem?
-
-  ##### About Me
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eum beatae voluptate fugiat, veritatis facilis iste facere dolorem quia harum dolorum quas nihil debitis reprehenderit repellendus praesentium assumenda consectetur quidem?
-
+  #### CGV (CGV LANDING PAGE RENEWAL)
+  - CGV LANDING PAGE 리뉴얼 프로젝트
+  
+  
+  
 </details>
