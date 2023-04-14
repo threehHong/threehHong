@@ -3,7 +3,7 @@
 <!-- <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p> -->
 
-### 안녕하세요!:blush: 😃
+### 안녕하세요!:blush: 😃😄
 (간략한 자기소개 등 추가하기) <br><br>
 프론트엔드, 웹퍼블리싱 개발 취업 준비생입니다. <br><br>
 최근 웹퍼블리셔&프론트엔드 SW개발자 양성 과정에 참였고, 4월 19일 이수하였습니다. <br><br>
