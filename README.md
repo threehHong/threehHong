@@ -8,6 +8,15 @@
 
 <details>
   <summary> more </summary>
+
+  
+  <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/jquery-F7DF1E.svg?&style=for-the-badge&logo=Jquery&logoColor="white"/>
+  
+  
   
   # About Me
   Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni eum beatae voluptate fugiat, veritatis facilis iste facere dolorem quia harum dolorum quas nihil debitis reprehenderit repellendus praesentium assumenda consectetur quidem?
