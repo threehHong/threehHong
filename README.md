@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=Jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-777BB4.svg?&style=for-the-badge&logo=react&logoColor=gray"/>
+  <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=gray"/>
   
    <!-- 깃허브 추가하기 -->
   
