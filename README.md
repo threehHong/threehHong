@@ -19,18 +19,18 @@
   
   ## Tech Stack
   <img src="https://img.shields.io/badge/html-E34F26.svg?&style=flat_and_logo&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD.svg?&style=for-the-badge&logo=Jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-333333.svg?&style=for-the-badge&logo=react&logoColor=skybluey"/>
-  <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6.svg?&style=flat_and_logo&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=flat_and_logo&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat_and_logo&logo=Jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-333333.svg?&style=flat_and_logo&logo=react&logoColor=skybluey"/>
+  <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=flat_and_logo&logo=PHP&logoColor=white"/>
 
   <br>  <!-- style=for-the-badge -->
   
-  <img src="https://img.shields.io/badge/git-F15151.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-F15151.svg?&style=flat_and_logo&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717.svg?&style=flat_and_logo&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=flat_and_logo&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=flat_and_logo&logo=Figma&logoColor=white"/>
   
   <br> <br>
   
