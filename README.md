@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/react-333333.svg?&style=flat_and_logo&logo=react&logoColor=skybluey"/>
   <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=flat_and_logo&logo=PHP&logoColor=white"/>
 
-  <br>  <!-- style=for-the-badge -->
+  <!-- style=for-the-badge -->
   
   <img src="https://img.shields.io/badge/git-F15151.svg?&style=flat_and_logo&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717.svg?&style=flat_and_logo&logo=github&logoColor=white"/>
