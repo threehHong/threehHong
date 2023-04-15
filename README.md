@@ -41,7 +41,7 @@
     [📁 CLASS ESC USER PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
-  - LMS 사이트 관리자 페이지 제작 프로젝트 <br>
+  - LMS 사이트 관리자 페이지 제작 프로젝트(관리자 페이지 제작) <br>
     [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board.php) (id: admin, pw : admin1213) <br>
     [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
@@ -55,7 +55,7 @@
   - CGV LANDING PAGE 리뉴얼 프로젝트 <br>
     [🌎 CGV LADING PAGE 전체 - 홈페이지]() <br>
     [🌎 CGV LADING PAGE MOVIE CHART - 홈페이지]() <br>
-    [📁 CGV RENEWAL PROJECT - GitHub Repository](https://github.com/vaem6877/cgv_project)
+    [📁 CGV RENEWAL PROJECT - GitHub Repository](https://github.com/threehHong/cgv_project)
   
   <br>
   
