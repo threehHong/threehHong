@@ -46,12 +46,16 @@
     [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
   #### LG DIPLAY (SITE RENEWAL)
-  - LG DIPLAY 사이트 리뉴얼 프로젝트
-  - 해당 리파지토리 바로가기
+  - LG DIPLAY 사이트 리뉴얼 프로젝트 <br>
+    [🌎 ESG - 홈페이지]() <br>
+    [🌎 OLED - 홈페이지]() <br>
+    [📁 LG DISPLAY RENEWAL PROJECT - GitHub Repository]()
   
   #### CGV (CGV LANDING PAGE RENEWAL)
-  - CGV LANDING PAGE 리뉴얼 프로젝트
-  - 해당 리파지토리 바로가기
+  - CGV LANDING PAGE 리뉴얼 프로젝트 <br>
+    [🌎 CGV LADING PAGE 전체 - 홈페이지]() <br>
+    [🌎 CGV LADING PAGE MOVIE CHART - 홈페이지]() <br>
+    [📁 CGV RENEWAL PROJECT - GitHub Repository](https://github.com/vaem6877/cgv_project)
   
   <br>
   
