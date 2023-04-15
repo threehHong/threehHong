@@ -3,18 +3,19 @@
 <!-- <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p> -->
 
-### 안녕하세요!:blush: 😃😄
-(간략한 자기소개 등 추가하기) <br><br>
-프론트엔드, 웹퍼블리싱 개발 취업 준비생입니다. <br><br>
-최근 웹퍼블리셔&프론트엔드 SW개발자 양성 과정에 참였고, 4월 19일 수료하였습니다. <br><br>
-6개월 동안 진행한 4개의 프로젝트와 훈련 하면서 학습한 내용을 깃허브에 정리했습니다. 더보기 버튼을 클릭하시면 내용을 확인하실 수 있습니다. <br><br>
+### 안녕하세요! 😊
+안녕하세요! 저는 주차 차단기를 생산하는 일을 하였습니다. 차단기를 생산하고 테스트 하는 과정이 있는데요, 마우스 클릭 한번으로 주차 차단기가 열리고 닫히는 것이 참 신기했습니다. 또한 프로그램 관련 이슈가 생기면 이를 해결할 수 있는 사람이 얼마 없다는 것이 매력으로 다가 왔습니다
 
-감사합니다
+직장 생활을 병행하며 개발 공부를 하다 웹 개발 프론트엔드 분야에 본격적으로 도전해보고 싶어 6개월 전에 퇴사후 바로 웹퍼블리셔&프론트엔드 과정에 등록하여 최근 4얼 19일에 수료하였습니다. 
+
+6개월 동안의 훈련 과정중 진행한 4개의 프로젝트와 훈련 하면서 학습한 내용을 깃허브에 정리했습니다. 아래 more 버튼을 클릭하시면 내용을 확인하실 수 있습니다. <br><br>
+
+감사합니다!
 
 <br>
 
 <details>
-  <summary> Please Click Here </summary>
+  <summary> more </summary>
 
   <br>
   
@@ -37,13 +38,14 @@
   
   ## Recent Project
   #### CLASS ESC USER PAGE
-  - LMS 사이트 유저 페이지 제작 프로젝트(온라인 강의 사이트 제작)
-  - [CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
-    [CLASS ESC USER PAGE - Repository](https://github.com/threehHong/CLASS_ESC_userPage)
+  - LMS 사이트 유저 페이지 제작 프로젝트(온라인 강의 사이트 제작) <br>
+    [🌎 CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
+    [📁 CLASS ESC USER PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
-  - LMS 사이트 관리자 페이지 제작 프로젝트
-  - 해당 리파지토리 바로가기
+  - LMS 사이트 관리자 페이지 제작 프로젝트 <br>
+    [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/index.php) (id: admin, pw : admin1213) <br>
+    [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
   #### LG DIPLAY (SITE RENEWAL)
   - LG DIPLAY 사이트 리뉴얼 프로젝트
@@ -57,7 +59,7 @@
   
   ## Training
   - 과정명 &nbsp; : &nbsp;『기업연계 프로젝트형』 웹디자인(웹퍼블리셔)&프론트엔드 SW개발자 양성
-  - 훈련 기간 &nbsp; : &nbsp; 22.10.27~23.04.19
-  - 해당 리파지토리 바로가기
+  - 훈련 기간 &nbsp; : &nbsp; 22.10.27~23.04.19 <br>
+    [📁 KDT - GitHub Repository](https://github.com/threehHong/KDT)
   
 </details>
