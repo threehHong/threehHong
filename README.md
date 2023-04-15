@@ -38,7 +38,8 @@
   ## Recent Project
   #### CLASS ESC USER PAGE
   - LMS 사이트 유저 페이지 제작 프로젝트(온라인 강의 사이트 제작)
-  - 해당 리파지토리 바로가기
+  - [CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
+    [CLASS ESC USER PAGE - Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
   - LMS 사이트 관리자 페이지 제작 프로젝트
