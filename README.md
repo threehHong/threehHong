@@ -36,12 +36,12 @@
   
   ## Recent Project
   #### CLASS ESC USER PAGE
-  - LMS 사이트 유저 페이지 제작 프로젝트(온라인 강의 사이트 제작) <br>
+  - LMS 온라인 강의 사이트 유저 페이지 제작 프로젝트 - 개인 프로젝트 <br>
     [🌎 CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
     [📁 CLASS ESC USER PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
-  - LMS 사이트 관리자 페이지 제작 프로젝트(관리자 페이지 제작) <br>
+  - LMS 온라인 강의 사이트 관리자 페이지 제작 프로젝트 - 개인 프로젝트 <br>
     [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board.php) (id: admin, pw : admin1213) <br>
     [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
