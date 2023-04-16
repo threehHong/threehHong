@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=flat_and_logo&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=flat_and_logo&logo=Figma&logoColor=white"/>
   
-  <br>
+  <br> <br>
   
   ## Recent Project
   #### CLASS ESC USER PAGE
