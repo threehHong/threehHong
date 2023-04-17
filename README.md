@@ -53,8 +53,8 @@
   
   #### CGV (CGV LANDING PAGE RENEWAL)
   - CGV LANDING PAGE 리뉴얼 프로젝트 <br>
-    [🌎 CGV LADING PAGE 전체 - 홈페이지]() <br>
-    [🌎 CGV LADING PAGE MOVIE CHART - 홈페이지]() <br>
+    [🌎 CGV LADING PAGE 전체 - 홈페이지](http://mys.dothome.co.kr/cgv/index.html) <br>
+    [🌎 CGV LADING PAGE MOVIE CHART - 홈페이지](http://mys.dothome.co.kr/cgv/movie_chart.html) <br>
     [📁 CGV RENEWAL PROJECT - GitHub Repository](https://github.com/threehHong/cgv_project)
   
   <br>
