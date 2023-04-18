@@ -42,7 +42,7 @@
   
   #### CLASS ESC ADMIN PAGE
   - LMS 온라인 강의 사이트 관리자 페이지 제작 프로젝트 - 개인 프로젝트 <br>
-    [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board.php) (id: admin, pw : admin1213) <br>
+    [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board.php) <br>
     [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
   #### LG DIPLAY (SITE RENEWAL)
