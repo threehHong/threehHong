@@ -47,8 +47,8 @@
 
   #### LG DIPLAY (SITE RENEWAL)
   - LG DIPLAY 사이트 리뉴얼 프로젝트 <br>
-    [🌎 ESG - 홈페이지]() <br>
-    [🌎 OLED - 홈페이지]() <br>
+    [🌎 ESG - 홈페이지](http://mys.dothome.co.kr/lg/esg.html) <br>
+    [🌎 OLED - 홈페이지](http://mys.dothome.co.kr/lg/OLED.html) <br>
     [📁 LG DISPLAY RENEWAL PROJECT - GitHub Repository]()
   
   #### CGV (CGV LANDING PAGE RENEWAL)
