@@ -38,29 +38,29 @@
   #### CLASS ESC USER PAGE
   - LMS 온라인 강의 사이트 유저 페이지 제작 프로젝트 - 개인 프로젝트 <br>
     [🌎 CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
-    [📁 CLASS ESC USER PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_userPage)
+    [📁 CLASS ESC USER PAGE - Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
   - LMS 온라인 강의 사이트 관리자 페이지 제작 프로젝트 - 개인 프로젝트 <br>
     [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) <br>
-    [📁 CLASS ESC ADMIN PAGE - GitHub Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
+    [📁 CLASS ESC ADMIN PAGE - Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
   #### LG DIPLAY (SITE RENEWAL)
   - LG DIPLAY 사이트 리뉴얼 프로젝트 <br>
     [🌎 ESG - 홈페이지](http://mys.dothome.co.kr/lg/esg.html) <br>
     [🌎 OLED - 홈페이지](http://mys.dothome.co.kr/lg/OLED.html) <br>
-    [📁 LG DISPLAY RENEWAL PROJECT - GitHub Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT)
+    [📁 LG DISPLAY RENEWAL PROJECT - Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT)
   
   #### CGV (CGV LANDING PAGE RENEWAL)
   - CGV LANDING PAGE 리뉴얼 프로젝트 <br>
     [🌎 CGV LADING PAGE - 홈페이지](http://mys.dothome.co.kr/cgv/index.html) <br>
-    [📁 CGV RENEWAL PROJECT - GitHub Repository](https://github.com/threehHong/cgv_project)
+    [📁 CGV RENEWAL PROJECT - Repository](https://github.com/threehHong/cgv_project)
   
   <br>
   
   ## Training
   - 과정명 &nbsp; : &nbsp;『기업연계 프로젝트형』 웹디자인(웹퍼블리셔)&프론트엔드 SW개발자 양성
   - 훈련 기간 &nbsp; : &nbsp; 22.10.27~23.04.19 <br>
-    [📁 KDT - GitHub Repository](https://github.com/threehHong/KDT)
+    [📁 KDT - Repository](https://github.com/threehHong/KDT)
   
 </details>
