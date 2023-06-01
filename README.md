@@ -40,24 +40,24 @@
   
   #### CLASS ESC USER PAGE
   - LMS 온라인 강의 사이트 유저 페이지 제작 프로젝트 - 개인 프로젝트 <br>
-    [🌎 CLASS ESC USER PAGE - 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
-    [📁 CLASS ESC USER PAGE - Repository](https://github.com/threehHong/CLASS_ESC_userPage)
+    [🌎 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
+    [📁 Repository](https://github.com/threehHong/CLASS_ESC_userPage)
   
   #### CLASS ESC ADMIN PAGE
   - LMS 온라인 강의 사이트 관리자 페이지 제작 프로젝트 - 개인 프로젝트 <br>
-    [🌎 CLASS ESC ADMIN PAGE - 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) <br>
-    [📁 CLASS ESC ADMIN PAGE - Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
+    [🌎 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) <br>
+    [📁 Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
 
   #### LG DIPLAY (SITE RENEWAL)
   - LG DIPLAY 사이트 리뉴얼 프로젝트 <br>
     [🌎 ESG - 홈페이지](http://mys.dothome.co.kr/lg/esg.html) <br>
     [🌎 OLED - 홈페이지](http://mys.dothome.co.kr/lg/OLED.html) <br>
-    [📁 LG DISPLAY RENEWAL PROJECT - Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT)
+    [📁 Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT)
   
   #### CGV (CGV LANDING PAGE RENEWAL)
   - CGV LANDING PAGE 리뉴얼 프로젝트 <br>
-    [🌎 CGV LADING PAGE - 홈페이지](http://mys.dothome.co.kr/cgv/index.html) <br>
-    [📁 CGV RENEWAL PROJECT - Repository](https://github.com/threehHong/cgv_project)
+    [🌎 홈페이지](http://mys.dothome.co.kr/cgv/index.html) <br>
+    [📁 Repository](https://github.com/threehHong/cgv_project)
   
   <br>
   
