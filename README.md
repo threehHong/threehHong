@@ -34,9 +34,9 @@
   <br> <br>
   
   ## Recent Project
-  #### 프로젝트 소개서
+  <!-- #### 프로젝트 소개서
   - 6개월 동안의 훈련 과정중 진행한 4개의 프로젝트에 대해 설명해 놓은 소개서(깃허브 readme에 작성한 내용들을 하나로 통합) <br>
-    [📃 프로젝트 소개서](https://drive.google.com/file/d/1UcanXJrG7monfAssgFX2aToRhxoNwXIU/view?usp=share_link) <br>
+    [📃 프로젝트 소개서](https://drive.google.com/file/d/1UcanXJrG7monfAssgFX2aToRhxoNwXIU/view?usp=share_link) <br> -->
   
   #### CLASS ESC USER PAGE
   - LMS 온라인 강의 사이트 유저 페이지 제작 프로젝트 - 개인 프로젝트 <br>
