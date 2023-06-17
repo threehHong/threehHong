@@ -1,25 +1,8 @@
-<link rel="stylesheet" type="text/css" href="readme.css">
-
-<!-- <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p> -->
- 
-<!-- ### 안녕하세요! 👋😊 👋😊 -->
-
 KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔드 SW개발자 양성 과정 수료 (22.10.27~23.04.19)
 
 해당 훈련 과정중 진행한 4개의 프로젝트와 훈련 하면서 학습한 내용을 여기에 정리했습니다. 
 
-아래 more를 누르면 내용을 확인하실 수 있습니다. 
-
-<!-- 
-### 안녕하세요! 
-
-지난 4월 19일에 웹퍼블리셔&프론트엔드 교육 과정을 수료하였습니다
-
-해당 훈련 과정중 진행한 4개의 프로젝트와 훈련 하면서 학습한 내용을 정리했습니다. 
-
-아래 more 버튼을 클릭하시면 내용을 확인하실 수 있습니다. 
--->
+아래 👇 more를 누르면 내용을 확인하실 수 있습니다. 
 
 <details>
   <summary> more </summary> 
