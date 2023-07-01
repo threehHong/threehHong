@@ -27,6 +27,10 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   <br> <br>
   
   ## Recent Project
+
+  #### React Mini Project
+  - 리액트 스터디 하면서 진행한 미니 프로젝트 - 개인 프로젝트 <br>
+    [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br>
   
   #### CLASS ESC USER PAGE
   - LMS 온라인 강의 사이트 유저 페이지 제작 프로젝트 - 개인 프로젝트 <br>
