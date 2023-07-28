@@ -13,7 +13,11 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   <img src="https://img.shields.io/badge/javaScript-F7DF1E.svg?&style=flat_and_logo&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/jquery-0769AD.svg?&style=flat_and_logo&logo=Jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-333333.svg?&style=flat_and_logo&logo=react&logoColor=skybluey"/>
+
+  <br>
+  
   <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=flat_and_logo&logo=PHP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat_and_logo&logo=MySQL&logoColor=white"/>
   
   <br>
 
