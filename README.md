@@ -65,7 +65,9 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
     - jQuery, PHP, MySQL <br>
     - 23.02.13 ~ 23.03.16 <br>
     - [🌎 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) &nbsp;
-    - [📁 Repository](https://github.com/threehHong/CLASS_ESC_adminPage) <br> <br>
+      [📁 Repository](https://github.com/threehHong/CLASS_ESC_adminPage) <br>
+  
+  <br>
 
   #### LG DIPLAY (SITE RENEWAL)
   - LG DIPLAY 사이트 리뉴얼 (팀 프로젝트) <br>
