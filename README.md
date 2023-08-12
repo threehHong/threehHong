@@ -27,7 +27,27 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=flat_and_logo&logo=Figma&logoColor=white"/>
   
   <br> <br>
+
+  ## Ongoing Project
+  #### Motion Golf
+  - 모션 골프 브랜딩 사이트 (개인 프로젝트)
+    - 랜딩 페이지(완료),
+    - About us, Studin, Location (제작중)
+    - Jquery
+    - 23.06.29 ~ 
+    - [🌎 홈페이지](http://myst.dothome.co.kr/motion/index.html) &nbsp; <br>
   
+  <br>
+
+  #### 가계부
+  - 나만의 가계부 (개인 프로젝트)
+    - 엑셀로 정리하던 가계부의 번거로움을 해결하기 위한 가계부 웹 애플리케이션
+    - 프론트 페이지 제작중
+    - JQuery, PHP, MySQL
+    - 23.08.04 ~ 
+  
+  <br>
+
   ## Recent Project
 
   #### CRUD 
@@ -49,7 +69,7 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
 
   <br>
   
-  #### CLASS ESC USER PAGE
+  #### CLASS ESC (user page)
   - LMS 온라인 강의 사이트 유저 페이지 (개인 프로젝트) <br>
     - 랜딩페이지, 로그인, 회원가입, 게시판, 반응형 <br>
     - jQuery, PHP, MySQL
@@ -59,9 +79,9 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
 
   <br>
   
-  #### CLASS ESC ADMIN PAGE
+  #### CLASS ESC (admin page)
   - LMS 온라인 강의 사이트 관리자 페이지 (개인 프로젝트) <br>
-    - 대쉬보드, 로그인, 회원가입, 게시판 <br>
+    - 대시보드, 로그인, 회원가입, 게시판 <br>
     - jQuery, PHP, MySQL <br>
     - 23.02.13 ~ 23.03.16 <br>
     - [🌎 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) &nbsp;
