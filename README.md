@@ -31,34 +31,60 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   ## Recent Project
 
   #### CRUD 
-  - CRUD 프로젝트- 팀프로젝트 <br>
-    [🌎 홈페이지](https://google-scammers.github.io/crud/) <br> 
-    [📁 Repository](https://github.com/google-scammers/crud) <br>
+  - simple 커뮤니티 게시판 (팀프로젝트) 
+    - 로그인, 회원가입, 게시판, 반응형 <br>
+    - React, Typescript, Express, MySQL, Github Actions, Heroku <br>
+    -  23.07.10 ~ 23.07.24 <br>
+    - [🌎 홈페이지](https://google-scammers.github.io/crud/) &nbsp;
+      [📁 Repository](https://github.com/google-scammers/crud) <br> 
+
+  <br>
 
   #### React Mini Project
-  - 리액트 미니 프로젝트 - 개인 프로젝트 <br>
-    [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br>
+  - 리액트를 활용한 웹 애플리케이션 기능 구현 (개인 프로젝트) <br>
+    - 날씨, 회원 검색기 
+    - React, Netlify <br>
+    - 23.06.08 ~ <br>
+    - [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br>
+
+  <br>
   
   #### CLASS ESC USER PAGE
-  - LMS 온라인 강의 사이트 유저 페이지 - 개인 프로젝트 <br>
-    [🌎 홈페이지](http://myst.dothome.co.kr/esc4/index.php) <br>
-    [📁 Repository](https://github.com/threehHong/CLASS_ESC_userPage)
+  - LMS 온라인 강의 사이트 유저 페이지 (개인 프로젝트) <br>
+    - 랜딩페이지, 로그인, 회원가입, 게시판, 반응형 <br>
+    - jQuery, PHP, MySQL
+    - 23.03.20 ~ 23.04.13 <br>
+    - [🌎 홈페이지](http://myst.dothome.co.kr/esc4/index.php) &nbsp;
+      [📁 Repository](https://github.com/threehHong/CLASS_ESC_userPage) <br>
+
+  <br>
   
   #### CLASS ESC ADMIN PAGE
-  - LMS 온라인 강의 사이트 관리자 페이지 - 개인 프로젝트 <br>
-    [🌎 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) <br>
-    [📁 Repository](https://github.com/threehHong/CLASS_ESC_adminPage)
+  - LMS 온라인 강의 사이트 관리자 페이지 (개인 프로젝트) <br>
+    - 대쉬보드, 로그인, 회원가입, 게시판 <br>
+    - jQuery, PHP, MySQL <br>
+    - 23.02.13 ~ 23.03.16 <br>
+    - [🌎 홈페이지](http://myst.dothome.co.kr/board/member/log_in.php) &nbsp;
+    - [📁 Repository](https://github.com/threehHong/CLASS_ESC_adminPage) <br> <br>
 
   #### LG DIPLAY (SITE RENEWAL)
-  - LG DIPLAY 사이트 리뉴얼 - 팀 프로젝트 <br>
-    [🌎 ESG - 홈페이지](http://mys.dothome.co.kr/lg/esg.html) <br>
-    [🌎 OLED - 홈페이지](http://mys.dothome.co.kr/lg/OLED.html) <br>
-    [📁 Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT)
+  - LG DIPLAY 사이트 리뉴얼 (팀 프로젝트) <br>
+    - 스크롤을 활용한 인터랙티브 페이지, 반응형 <br>
+    - jQuery <br>
+    - 22.12.30 ~ 23.02.08  <br>
+    - [🌎 ESG - 홈페이지](http://mys.dothome.co.kr/lg/esg.html) &nbsp;
+      [🌎 OLED - 홈페이지](http://mys.dothome.co.kr/lg/OLED.html) &nbsp;
+      [📁 Repository](https://github.com/threehHong/LG_DISPLAY_PROJECT) <br>
+
+  <br>
   
   #### CGV (CGV LANDING PAGE RENEWAL)
-  - CGV LANDING PAGE 리뉴얼 - 팀 프로젝트 <br>
-    [🌎 홈페이지](http://mys.dothome.co.kr/cgv/index.html) <br>
-    [📁 Repository](https://github.com/threehHong/cgv_project)
+  - CGV LANDING PAGE 리뉴얼 (팀 프로젝트) <br>
+    - 무비차트 부분 이미지 슬라이드 구현
+    - Javascript <br>
+    - 22.11.01 ~ 22.12.22 <br>
+      [🌎 홈페이지](http://mys.dothome.co.kr/cgv/index.html) &nbsp;
+      [📁 Repository](https://github.com/threehHong/cgv_project)
   
   <br>
   
