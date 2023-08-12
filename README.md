@@ -23,7 +23,7 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
 
   <img src="https://img.shields.io/badge/git-F15151.svg?&style=flat_and_logo&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717.svg?&style=flat_and_logo&logo=github&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/vscode-007ACC.svg?&styㅈle=flat_and_logo&logo=visualstudio&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/vscode-007ACC.svg?&styㅈle=flat_and_logo&logo=visualstudio&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/figma-A259FF.svg?&style=flat_and_logo&logo=Figma&logoColor=white"/>
   
   <br> <br>
