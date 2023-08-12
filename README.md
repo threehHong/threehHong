@@ -33,7 +33,7 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   - 모션 골프 브랜딩 사이트 (개인 프로젝트)
     - 랜딩 페이지(완료),
     - About us, Studin, Location (제작중)
-    - Jquery
+    - JQuery
     - 23.06.29 ~ 
     - [🌎 홈페이지](http://myst.dothome.co.kr/motion/index.html) &nbsp; <br>
   
@@ -48,10 +48,20 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   
   <br>
 
+  #### ToDo
+  - 오늘의 할 일을 나열하고 지워나가는 ToDo 웹 애플리케이션 (팀 프로젝트)
+    - 회원가입, 로그인, Todo 작성, 삭제, 수정 기능 구현(완료).
+    - style, 로그인, 회원가입, 글 삭제, 수정시 알림 기능 추가(진행중)
+    - React, Axios, React-Router-Dom, Styled-Components, Netlify
+    - 23.08.03 ~ 
+    - [🌎 홈페이지](https://unrivaled-crumble-a8e1d0.netlify.app/) &nbsp;
+
+  <br>
+
   ## Recent Project
 
   #### CRUD 
-  - simple 커뮤니티 게시판 (팀프로젝트) 
+  - simple 커뮤니티 게시판 (팀 프로젝트) 
     - 로그인, 회원가입, 게시판, 반응형 <br>
     - React, Typescript, Express, MySQL, Github Actions, Heroku <br>
     -  23.07.10 ~ 23.07.24 <br>
