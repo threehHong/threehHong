@@ -31,12 +31,12 @@ KDT 『기업연계 프로젝트형』웹디자인(웹퍼블리셔)&프론트엔
   ## Recent Project
 
   #### CRUD 
-  - CRUD 프로젝트 <br>
+  - CRUD 프로젝트- 팀프로젝트 <br>
     [🌎 홈페이지](https://google-scammers.github.io/crud/) <br> 
     [📁 Repository](https://github.com/google-scammers/crud) <br>
 
   #### React Mini Project
-  - 리액트 스터디 하면서 진행한 미니 프로젝트 - 개인 프로젝트 <br>
+  - 리액트 미니 프로젝트 - 개인 프로젝트 <br>
     [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br>
   
   #### CLASS ESC USER PAGE
