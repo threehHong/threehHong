@@ -30,7 +30,7 @@
   #### Motion Golf
   - 모션 골프 브랜딩 사이트 (개인 프로젝트)
     - 랜딩 페이지(완료),
-    - About us, Studin, Location (제작중)
+    - About us, Studio, Location (제작중)
     - JQuery
     - 23.06.29 ~ 
     - [🌎 홈페이지](http://myst.dothome.co.kr/motion/index.html) &nbsp; <br>
