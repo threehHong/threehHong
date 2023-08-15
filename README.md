@@ -30,7 +30,7 @@
   #### Motion Golf
   - 모션 골프 브랜딩 사이트 (개인 프로젝트)
     - 랜딩 페이지(완료),
-    - About us, Studio, Location (제작중)
+    - About us, Studio, Location (진행중)
     - JQuery
     - 23.06.29 ~ 
     - [🌎 홈페이지](http://myst.dothome.co.kr/motion/index.html) &nbsp; <br>
@@ -49,7 +49,7 @@
   #### ToDo
   - 오늘의 할 일을 입력하고 지워나가는 웹 애플리케이션 (개인 프로젝트)
     - 회원가입, 로그인, Todo 작성, 삭제, 수정 기능 구현(완료).
-    - style, 로그인, 회원가입, 글 삭제, 수정시 알림 기능 추가(진행중)
+    - style 보완, 로그인 + 회원가입 + 글 삭제 및 수정시 알림 기능 추가(진행중)
     - React, Axios, React-Router-Dom, Styled-Components, Netlify
     - 23.08.03 ~ 
     - [🌎 홈페이지](https://unrivaled-crumble-a8e1d0.netlify.app/) &nbsp;
