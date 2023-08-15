@@ -59,7 +59,7 @@
   ## Recent Project
 
   #### CRUD 
-  - simple 커뮤니티 게시판 (팀 프로젝트) 
+  - Simple 커뮤니티 게시판 (팀 프로젝트) 
     - 로그인, 회원가입, 게시판, 반응형 <br>
     - React, Typescript, Express, MySQL, Github Actions, Heroku <br>
     -  23.07.10 ~ 23.07.24 <br>
