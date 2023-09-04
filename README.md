@@ -52,7 +52,7 @@
     - style 보완, 로그인 + 회원가입 + 글 삭제 및 수정시 알림 기능 추가(진행중)
     - React, Axios, React-Router-Dom, Styled-Components, Netlify
     - 23.08.03 ~ 
-    - [🌎 ToDo](https://unrivaled-crumble-a8e1d0.netlify.app/) &nbsp;
+    - [🌎 ToDo](https://unrivaled-crumble-a8e1d0.netlify.app/) &nbsp; [📁 Repository](https://github.com/threehHong/ToDo) <br> 
 
   <br>
 
