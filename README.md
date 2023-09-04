@@ -46,6 +46,8 @@
   
   <br>
 
+  ## Recent Project
+
   #### ToDo
   - 오늘의 할 일을 입력하고 지워나가는 웹 애플리케이션 (개인 프로젝트)
     - 회원가입, 로그인, Todo 작성, 삭제, 수정 기능 구현(완료).
@@ -55,8 +57,6 @@
     - [🌎 ToDo](https://unrivaled-crumble-a8e1d0.netlify.app/) &nbsp; [📁 Repository](https://github.com/threehHong/ToDo) <br> 
 
   <br>
-
-  ## Recent Project
 
   #### CRUD 
   - Simple 커뮤니티 게시판 (팀 프로젝트) 
