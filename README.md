@@ -68,12 +68,12 @@
 
   <br>
 
-  #### React Mini Project
+  <!-- #### React Mini Project
   - 리액트를 활용한 웹 애플리케이션 기능 구현 Collection (개인 프로젝트) <br>
     - 날씨, 회원 검색기 
     - React, Netlify <br>
     - 23.06.08 ~ <br>
-    - [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br>
+    - [📁 Repository](https://github.com/threehHong/React-Mini-Project) <br> -->
 
   <br>
   
