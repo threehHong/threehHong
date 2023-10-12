@@ -119,9 +119,4 @@
   
   <br>
   
-  ## Training
-  - 과정명 &nbsp; : &nbsp; KDT 『기업연계 프로젝트형』 웹디자인(웹퍼블리셔)&프론트엔드 SW개발자 양성 과정
-  - 훈련 기간 &nbsp; : &nbsp; 22.10.27~23.04.19 <br>
-  - [📁 Repository](https://github.com/threehHong/KDT)
-  
 </details>
