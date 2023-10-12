@@ -27,22 +27,23 @@
   <br> <br>
 
   ## Ongoing Project
+  #### Expense Tracker
+  - 지출 추적기 (개인 프로젝트)
+    - 엑셀로 정리하던 가계부의 번거로움을 해결하기 위한 가계부 웹 애플리케이션
+    - 회원가입 및 로그인 구현, 버그 및 기능 수정 보완, 리드미 작성 진행중
+    - JQuery, PHP, MySQL, Chart.js, ExcelJS
+    - 23.08.04 ~
+    - [🌎 Expense Tracker](http://mys.dothome.co.kr/expense/index.php) &nbsp; [📁 Repository](https://github.com/threehHong/Expense_Tracker) <br>
+  
+  <br>
+  
   #### Motion Golf
   - 모션 골프 브랜딩 사이트 (개인 프로젝트)
-    - 랜딩 페이지(완료),
-    - About us, Studio, Location (진행중)
+    - 랜딩 페이지 완료.
+    - About us, Studio, Location 페이지 진행중
     - JQuery
     - 23.06.29 ~ 
     - [🌎 Motion Golf](http://myst.dothome.co.kr/motion/index.html) &nbsp; <br>
-  
-  <br>
-
-  #### 가계부
-  - 나만의 가계부 (개인 프로젝트)
-    - 엑셀로 정리하던 가계부의 번거로움을 해결하기 위한 가계부 웹 애플리케이션
-    - 프론트 페이지 제작중
-    - JQuery, PHP, MySQL
-    - 23.08.04 ~ 
   
   <br>
 
