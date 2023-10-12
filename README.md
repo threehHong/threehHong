@@ -1,4 +1,4 @@
-아래 👇 more를 클릭해 주세요.
+👇 more를 클릭해 주세요.
 
 <details>
   <summary> more </summary> 
