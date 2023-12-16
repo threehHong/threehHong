@@ -11,6 +11,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/php-4F5B93.svg?&style=flat_and_logo&logo=PHP&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeigniter-EF4223.svg?&style=flat_and_logo&logo=Codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat_and_logo&logo=MySQL&logoColor=white"/>
 
 <br>
